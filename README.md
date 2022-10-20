@@ -14,3 +14,4 @@ Some of the questions which are analysed in this are:
 - what are the percenatge of vaccinations compare to population of each country?
 - what are count and percenatge of vaccinations increased everyday for each country?
 
+Attached image File is Data Visualization using Tableau.
